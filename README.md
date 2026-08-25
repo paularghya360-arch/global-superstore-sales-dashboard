@@ -81,23 +81,39 @@ FINAL DASHBOARD
 | Dashboard Preview | Static dashboard preview |
 
 ## 🚀 How to Use
+Download the Excel workbook from the dashboard folder.
+Open the workbook using Microsoft Excel.
+Navigate to the Dashboard sheet.
+Use the Category slicer to filter product categories.
+Use the Region slicer to filter geographical performance.
+Use the Order Date timeline to analyze different time periods.
+Review the KPI cards and PivotCharts.
+Explore the PivotTables sheet for detailed analytical results.
+Review the supporting tables and Data Model relationships if required.
 
-1. Download the Excel workbook.
-2. Open it using Microsoft Excel.
-3. Go to the Dashboard sheet.
-4. Use the slicers to filter the analysis.
-5. Explore the PivotTables and charts.
+Note: Microsoft Excel desktop is recommended because the workbook uses
+Power Pivot/Data Model relationships, PivotTables and interactive slicers.
 
 ## 📌 Key Skills Demonstrated
-
-- Data cleaning
-- Data modeling
-- Relational data modeling
-- PivotTable analysis
-- Dashboard development
-- KPI design
-- Data visualization
-- Interactive reporting
+Data cleaning
+Data quality validation
+Data transformation
+Data structuring
+Data modeling
+Relational data modeling
+Lookup table creation
+Data validation
+PivotTable analysis
+PivotChart development
+KPI design
+GETPIVOTDATA
+Interactive dashboard development
+Slicer implementation
+Time-series analysis
+Regional analysis
+Category analysis
+Business reporting
+Data visualization
 
 - ### 1. Raw Data Assessment
 The original Orders dataset contained 51,290 transaction-level rows and 25
@@ -175,5 +191,18 @@ Dashboard KPIs needed to remain connected to the analytical layer.
 
 **Solution:** GETPIVOTDATA-based formulas were used instead of manually
 entered KPI values.
+
+## 📊 Project Outcome
+
+The final deliverable transforms a large transaction-level dataset into an
+interactive sales performance reporting system.
+
+The dashboard enables users to quickly monitor revenue, orders, returns,
+category performance, yearly trends, sub-category performance and regional
+performance through a single interactive interface.
+
+The project demonstrates the complete analytical workflow from raw data
+preparation and relational data modeling to business-focused visualization
+and interactive reporting.
 
 
