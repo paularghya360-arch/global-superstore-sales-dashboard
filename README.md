@@ -16,25 +16,25 @@ The final dashboard provides an overview of revenue, orders, category
 performance, yearly trends, regional performance, sub-category performance,
 and returned orders.
 
-RAW DATA
-   ↓
+**RAW DATA
+   →
 DATA CLEANING & VALIDATION
-   ↓
+   →
 DATA STRUCTURING
-   ↓
+   →
 LOOKUP / SUPPORT TABLES
-   ↓
+   →
 DATA MODEL & RELATIONSHIPS
-   ↓
+   →
 PIVOTTABLE ANALYSIS
-   ↓
+   →
 KPI CALCULATIONS
-   ↓
+   →
 PIVOTCHARTS
-   ↓
+   →
 SLICERS / TIMELINE
-   ↓
-FINAL DASHBOARD
+   →
+FINAL DASHBOARD**
 
 
 ## 🎯 Business Objectives
